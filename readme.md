@@ -1,0 +1,1 @@
+I couldn't find any solution for building zlib 1.2.7 in Visual Studio 2012 (express) so I created my own one.
